@@ -179,48 +179,6 @@ Alert Generation
 
 ---
 
-# 📂 Repository Structure
-
-```
-Fight-Alert-System
-│
-├── README.md
-├── Fight_Alert_System.ipynb
-├── dataset/
-├── models/
-├── images/
-├── results/
-├── requirements.txt
-└── Report.pdf
-```
-
----
-
-# ▶️ Installation
-
-```bash
-git clone https://github.com/yourusername/Fight-Alert-System.git
-
-cd Fight-Alert-System
-
-pip install -r requirements.txt
-```
-
----
-
-# ▶️ Run the Project
-
-```bash
-jupyter notebook Fight_Alert_System.ipynb
-```
-
-or
-
-```bash
-python app.py
-```
-
----
 
 # 📈 Future Enhancements
 
